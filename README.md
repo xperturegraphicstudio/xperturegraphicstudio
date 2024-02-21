@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
-xperture graphic studio can help you create the website of your dreams. We offer scalable and commercially focused development services that are focused on the needs of the client and build a highly collaborative environment at your workplace, with our custom website and software development services. Store data securely, meet compliance requirements, and get more work done by building intranet sites for individual teams. 
+![Xperture Graphic Studio](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@xperturegraphicstudio)
+
+Xperture graphic studio can help you create the website of your dreams. We offer scalable and commercially focused development services that are focused on the needs of the client and build a highly collaborative environment at your workplace, with our custom website and software development services. Store data securely, meet compliance requirements, and get more work done by building intranet sites for individual teams. 
 
 Bring Out the Best in your Business with Customized Software Solutions. Our experts thoroughly study and formulate strategies that work best for your business and help you succeed in the targeted market
  
@@ -120,3 +122,4 @@ We map a strategy, build a solution or elevate your product experience with focu
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperture&" alt="xperture" /></p> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xperturegraphicstudio&theme=gotham)](https://git.io/streak-stats)
+
